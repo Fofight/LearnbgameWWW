@@ -7,3 +7,5 @@
 [cheman.chemnet.com](http://cheman.chemnet.com/elements/)
 
 [csrri.iit.edu](http://www.csrri.iit.edu/periodic-table.html)
+
+[webelements.com](https://www.webelements.com/)
