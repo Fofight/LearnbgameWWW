@@ -24,6 +24,8 @@ https://royalzxl.github.io/3D-Database/
 
 [clumsy-bird](https://github.com/ellisonleao/clumsy-bird):A MelonJS port of the famous Flappy Bird Game
 
+[lol-model-viewer](https://tengge1.github.io/lol-model-viewer/LOLModelViewer/LOLModelViewer/index.html)-[github](https://github.com/tengge1/lol-model-viewer):154个英雄联盟中的英雄和中立生物的3D模型（带动画）演示
+
 ### WWWgamEngine
 
 
