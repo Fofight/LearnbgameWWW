@@ -18,7 +18,7 @@ https://royalzxl.github.io/3D-Database/
 
 [hextris](https://github.com/Hextris/hextris):Fast paced HTML5 puzzle game inspired by Tetris!  [display](http://www.hextris.io/)
 
-[games-icell](https://github.com/JeCat/games-icell)《我，细胞》一个以微生物环境为故事背景的物理解密+自由塔防游戏
+[games-icell](https://github.com/JeCat/games-icell):《我，细胞》一个以微生物环境为故事背景的物理解密+自由塔防游戏
 
 ### WWWgamEngine
 
