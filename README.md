@@ -16,7 +16,7 @@ https://royalzxl.github.io/3D-Database/
 
 [freeciv-web](https://github.com/freeciv/freeciv-web):Freeciv-web is an Open Source strategy game implemented in HTML5 and WebGL, which can be played online against other players, or in single player mode against AI opponents
 
-[hextris](https://github.com/Hextris/hextris):Fast[](Fast paced HTML5 puzzle game inspired by Tetris!  [display](http://www.hextris.io/)
+[hextris](https://github.com/Hextris/hextris):Fast paced HTML5 puzzle game inspired by Tetris!  [display](http://www.hextris.io/)
 
 ### WWWgamEngine
 
