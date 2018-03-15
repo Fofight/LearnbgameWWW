@@ -51,6 +51,9 @@ http://buildnewgames.com/
 
 [learn-webgl](https://github.com/tengge1/learn-webgl):WebGL学习
 
+[MMD.js](https://tengge1.github.io/MMD.js/)-[github](https://github.com/edvakf/MMD.js):MikuMikuDance on WebGL----WebGL版初音未来（MikuMikuDance）带动画
+
+
 ### VR
 
 [aframe](https://aframe.io/)--[github](https://github.com/aframevr/aframe)
@@ -59,8 +62,7 @@ http://buildnewgames.com/
 
 [d3](https://d3js.org/)--[github](https://github.com/d3/d3):Bring data to life with SVG, Canvas and HTML
 
-[blockbuilder](http://blockbuilder.org/search)
-
+[blockbuilder](http://blockbuilder.org/search):
 ### art
 
 http://www.bugman123.com/index.html
