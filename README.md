@@ -20,6 +20,8 @@ https://royalzxl.github.io/3D-Database/
 
 [games-icell](https://github.com/JeCat/games-icell):《我，细胞》一个以微生物环境为故事背景的物理解密+自由塔防游戏
 
+[magictools](https://github.com/ellisonleao/magictools):A list of Game Development resources to make magic happen
+
 ### WWWgamEngine
 
 
