@@ -28,6 +28,8 @@ https://royalzxl.github.io/3D-Database/
 
 [lol-game-maker](https://tengge1.github.io/lol-game-maker/demo.html)-[github](https://github.com/tengge1/lol-game-maker):使用英雄联盟中的模型制作可在浏览器中运行的游戏
 
+[seascape](https://github.com/melindalu/seascape):An implementation of Jerry Tessendorf's real-time ocean simulation techniques in WebGL-----WebGL模拟海水
+
 ### WWWgamEngine
 
 
