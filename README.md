@@ -26,6 +26,8 @@ https://royalzxl.github.io/3D-Database/
 
 [lol-model-viewer](https://tengge1.github.io/lol-model-viewer/LOLModelViewer/LOLModelViewer/index.html)-[github](https://github.com/tengge1/lol-model-viewer):154个英雄联盟中的英雄和中立生物的3D模型（带动画）演示
 
+[lol-game-maker](https://tengge1.github.io/lol-game-maker/demo.html)-[github](https://github.com/tengge1/lol-game-maker):使用英雄联盟中的模型制作可在浏览器中运行的游戏
+
 ### WWWgamEngine
 
 
