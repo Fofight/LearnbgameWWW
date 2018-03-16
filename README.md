@@ -2,6 +2,8 @@
 
 ### 一些展示元素周期表的网站
 
+# [css3d_periodictable](https://threejs.org/examples/#css3d_periodictable)——[github](https://github.com/mrdoob/three.js/blob/master/examples/css3d_periodictable.html)
+
 [chemicalelements.com](http://www.chemicalelements.com/)
 
 [cheman.chemnet.com](http://cheman.chemnet.com/elements/)
