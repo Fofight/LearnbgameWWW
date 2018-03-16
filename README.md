@@ -32,6 +32,8 @@
 
 [seascape](http://blog.melindalu.com/2015-06-14-seascape.html)-[seaflailing](http://blog.melindalu.com/media/2015-06-14-seaflailing/)-[github](https://github.com/melindalu/seascape):An implementation of Jerry Tessendorf's real-time ocean simulation techniques in WebGL-----WebGL模拟海水
 
+[h5-game-plantsVSzombies](https://github.com/yangyunhe369/h5-game-plantsVSzombies): 使用es6语法及原生javascript实现的h5小游戏-植物大战僵尸 
+
 ### WWWgamEngine
 
 
