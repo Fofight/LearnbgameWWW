@@ -2,7 +2,7 @@
 
 ### 一些展示元素周期表的网站
 
-# [css3d_periodictable](https://threejs.org/examples/#css3d_periodictable)——[github](https://github.com/mrdoob/three.js/blob/master/examples/css3d_periodictable.html)
+# [css3d_periodictable](https://threejs.org/examples/#css3d_periodictable)——[github](https://github.com/mrdoob/three.js/blob/master/examples/css3d_periodictable.html)——[教程](http://signxin.com/post/threejs-css3d)
 
 [chemicalelements.com](http://www.chemicalelements.com/)
 
