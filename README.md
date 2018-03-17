@@ -97,6 +97,10 @@ http://www.htmleaf.com/Demo/201707294657.html :银河特效
 
 http://www.jq22.com/code1596 ：纯css3旋转原子动画特效
 
+http://www.sandipde.com/
+
+http://interactive.sketchmap.org/
+
 ### gis
 
 [ZeroGIS](https://tengge1.github.io/ZeroGIS/)-[github](https://github.com/tengge1/ZeroGIS):原生Javascript实现的简单3D GIS，支持谷歌地图、必应地图、OpenStreetMap、搜索地图、天地图
