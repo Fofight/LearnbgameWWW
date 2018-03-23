@@ -8,6 +8,8 @@
 
 [ptable](https://www.ptable.com/?lang=zh#Writeup/Wikipedia)
 
+[wikipedia](https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%85%83%E7%B4%A0)
+
 [cheman.chemnet.com](http://cheman.chemnet.com/elements/)
 
 [csrri.iit.edu](http://www.csrri.iit.edu/periodic-table.html)
