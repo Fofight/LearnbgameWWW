@@ -6,6 +6,8 @@
 
 [chemicalelements.com](http://www.chemicalelements.com/)
 
+[ptable](https://www.ptable.com/?lang=zh#Writeup/Wikipedia)
+
 [cheman.chemnet.com](http://cheman.chemnet.com/elements/)
 
 [csrri.iit.edu](http://www.csrri.iit.edu/periodic-table.html)
