@@ -111,6 +111,8 @@ http://interactive.sketchmap.org/
 
 [planetarium](https://www.blend4web.com/zh/demo/planetarium/):太阳系
 
+[farm](https://www.blend4web.com/zh/demo/farm/):农场
+
 ### gis
 
 [ZeroGIS](https://tengge1.github.io/ZeroGIS/)-[github](https://github.com/tengge1/ZeroGIS):原生Javascript实现的简单3D GIS，支持谷歌地图、必应地图、OpenStreetMap、搜索地图、天地图
