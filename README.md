@@ -6,6 +6,10 @@
 
 [chemicalelements.com](http://www.chemicalelements.com/)
 
+[ptable](https://www.ptable.com/?lang=zh#Writeup/Wikipedia)
+
+[wikipedia](https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%85%83%E7%B4%A0)
+
 [cheman.chemnet.com](http://cheman.chemnet.com/elements/)
 
 [csrri.iit.edu](http://www.csrri.iit.edu/periodic-table.html)
@@ -48,6 +52,8 @@ https://codepen.io/i2801/pen/waQPQj
 [seascape](http://blog.melindalu.com/2015-06-14-seascape.html)-[seaflailing](http://blog.melindalu.com/media/2015-06-14-seaflailing/)-[github](https://github.com/melindalu/seascape):An implementation of Jerry Tessendorf's real-time ocean simulation techniques in WebGL-----WebGL模拟海水
 
 [h5-game-plantsVSzombies](https://github.com/yangyunhe369/h5-game-plantsVSzombies): 使用es6语法及原生javascript实现的h5小游戏-植物大战僵尸 
+
+[GD](http://www.compilgames.net/)——[github](https://github.com/4ian/GD):GDevelop is an open source HTML5 and native game creator requiring no coding skills
 
 ### WWWgamEngine
 
@@ -92,8 +98,28 @@ http://www.bugman123.com/index.html
 
 [threejs](https://threejs.org/)
 
+http://www.htmleaf.com/Demo/201707294657.html :银河特效
+
+
+http://www.jq22.com/code1596 ：纯css3旋转原子动画特效
+
+http://www.sandipde.com/
+
+http://interactive.sketchmap.org/
+
+[ilioner.github.io](http://ilioner.github.io/) ——[](https://github.com/ilioner/ilioner.github.io):有意思的特效
+
+[planetarium](https://www.blend4web.com/zh/demo/planetarium/):太阳系
+
+[farm](https://www.blend4web.com/zh/demo/farm/):农场
+
 ### gis
 
 [ZeroGIS](https://tengge1.github.io/ZeroGIS/)-[github](https://github.com/tengge1/ZeroGIS):原生Javascript实现的简单3D GIS，支持谷歌地图、必应地图、OpenStreetMap、搜索地图、天地图
+
+
+### tree.js
+
+http://blog.csdn.net/xlei1123/article/details/52141430
 
 
