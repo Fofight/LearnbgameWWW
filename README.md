@@ -26,6 +26,8 @@
 
 [images-of-elements](http://images-of-elements.com/)
 
+[relead](https://github.com/Lucent/drag-resize-dock)
+
 https://www.bilibili.com/video/av20710694/
 
 http://wow.techbrood.com/fiddle/10458
