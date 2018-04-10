@@ -6,6 +6,8 @@
 
 [chemicalelements.com](http://www.chemicalelements.com/)
 
+[threejs](https://threejs.org/examples/?q=pe#css3d_periodictable)
+
 [ptable](https://www.ptable.com/?lang=zh#Writeup/Wikipedia)
 
 [wikipedia](https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%85%83%E7%B4%A0)
@@ -122,7 +124,7 @@ http://interactive.sketchmap.org/
 [ZeroGIS](https://tengge1.github.io/ZeroGIS/)-[github](https://github.com/tengge1/ZeroGIS):原生Javascript实现的简单3D GIS，支持谷歌地图、必应地图、OpenStreetMap、搜索地图、天地图
 
 
-### tree.js
+### three.js
 
 http://blog.csdn.net/xlei1123/article/details/52141430
 
